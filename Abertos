@@ -156,7 +156,6 @@
 <info>.</info>
 </item>
 
-
 <item>
 <title>TV ARACATI</title>
 <link>https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8</link>
@@ -170,6 +169,214 @@
 <title>ISTV</title>
 <link>https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w850241181.m3u8</link>
 <thumbnail>https://1.bp.blogspot.com/-Gse0Swb-b3w/X8kFzz2Y5wI/AAAAAAAAD5M/r0ej_7Sml5cdVmKuGs8s1brOxUZZ0ZVkgCLcBGAsYHQ/s0/ISTV.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV ÁGUA BOA</title>
+<link>http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-4I1He8QnPMo/X7spOqhVt-I/AAAAAAAAD2Y/FFJPb8Xn9CQ7MCAgdbmKP-uSNigggQF0gCLcBGAsYHQ/s0/WEB%2BTV%2B%25C3%2581GUA%2BBOA.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV VALE DAS ARTES</title>
+<link>https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w288021132.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-IF8nxgPutL8/X5hIBE8Ij6I/AAAAAAAADl4/o9p9pqRMlwkmxkaCPdbUoRdFx7jwytpFQCLcBGAsYHQ/s0/TV%2BVALE%2BDAS%2BARTES.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV NATAL</title>
+<link>http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w947355882.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-Ncu3PyRUS7E/XNzjm4CVk1I/AAAAAAAAA3Q/tOw-OymRFDY4xF11fUfvKsqnmc6kV1HMwCPcBGAYYCw/s320/Screenshot_2019-05-16-01-11-16.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>CINE TRIANON TV</title>
+<link>https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1432967749.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-I2c8J1M9-ko/X7VclpPcIJI/AAAAAAAAD0s/e4GOBBPUqycpGVMtbejpoAhuQIgsR644gCLcBGAsYHQ/s0/CINE%2BTRIANON%2BTV.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV JAPI</title>
+<link>https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w15194189.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-prllIM4jwE8/X2-G2FwMizI/AAAAAAAADXE/75oV-qj3jR8eH5jfjLgDRMxmdcUVJ-nkgCPcBGAYYCw/s0/TV%2BJAPI.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV TUPI</title>
+<link>https://stmv1.srvif.com/redetupi/redetupi/chunklist_w1961222429.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-jAFhVdtwqeM/X9e4E-R0ssI/AAAAAAAAD-4/ehm0h2oWvVYQ7g7qtX3p-5OQA6KN6vBzACLcBGAsYHQ/s0/TV%2BTUPI.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>IMPERIAL TV</title>
+<link>https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w1321841997.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-iTOUKoUci9I/X5cvdMCkp7I/AAAAAAAADlM/KCREVuF2XBsXIZaSiu9zsVFpYNmr-dEeQCLcBGAsYHQ/s0/IMPERIAL%2BTV.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV J.SID</title>
+<link>https://livefocamundo.com:8081/8650/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>GENIALL TV</title>
+<link>https://studio.genialltv.com/live/Stream1_360p/chunklist_w927050223.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-MtIcMxW3TTw/X8j6L4C3zwI/AAAAAAAAD40/DQOrHgssGWkPUZ0eYDoAUUpCG0QHFFz5QCLcBGAsYHQ/s0/GENIALL%2BTV.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>REDE TV SUL</title>
+<link>https://novo.bitstreaming.info:1936/8032/8032/chunklist_w1904606021.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>LATINA SAT</title>
+<link>https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-JwZlc2K1-vw/XqeJPjzZWqI/AAAAAAAACqU/SQ01_WsB9wQQmRpVaC1EMa1PPcy6LSrugCLcBGAsYHQ/s320/Screenshot_2020-04-27-22-35-28.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV PONTA DA SERRA</title>
+<link>http://stmv6.srvstm.com/tvpontadaserra/tvpontadaserra/chunklist_w952803990.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-UlWyu7204xI/XYRVgKW0OOI/AAAAAAAAB-U/fon8OQetKw8_rlgGBK1A_UWNjgEmahwugCLcBGAsYHQ/s320/2019-09-20%2B01.19.36.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV CARIOCA</title>
+<link>https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1998018231.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV MAIS BRASIL</title>
+<link>https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1367865557.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-PiyFwhywwQM/XhjHNxYD4SI/AAAAAAAACWY/SNj6eLf_65sT3fBzTRlXJgPvg0BfkVjjACLcBGAsYHQ/s320/Screenshot_2020-01-10-15-46-42.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>REDE H TV</title>
+<link>https://stmv3.samcast.com.br/hugo3090/hugo3090/chunklist_w2131017459.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-65F_SGoyyvA/X5RoIyumX0I/AAAAAAAADiM/FYperLjQ57Ud_bBmsnHraP5I4MYrAzX5gCLcBGAsYHQ/s0/REDE%2BH%2BTV.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV JORNAL DO NORDESTE</title>
+<link>https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w2143984340.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-zZN76xxZcpg/Xt_EsRKjmII/AAAAAAAAC-4/qXbnkSGOuqUJQ7eMolPBlzTmb3pUqiv9QCPcBGAYYCw/s320/Screenshot_2020-06-09-14-10-37.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>CLASSIQUE TV</title>
+<link>https://stmv1.srvstm.com/classique/classique/chunklist_w740706430.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV RECON KIDS</title>
+<link>https://stmv1.srvif.com/reconsatkids/reconsatkids/chunklist_w1373274527.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-ZGSocJJ8kf8/X6YHG_neQlI/AAAAAAAADvE/rAp416j25eQB2E8CFUgIjWwmpyCIWXdTQCLcBGAsYHQ/s0/TV%2BRECON%2BSAT.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV OSÓRIO NEWS</title>
+<link>https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/chunklist_w541423498.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-VYHEdR9nctc/X7V8WsBuAtI/AAAAAAAAD04/5_q4pNkqQK8Vtmrh7uSksemEjjlA9dKXACLcBGAsYHQ/s0/TV%2BOS%25C3%2593RIO%2BNEWS.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV POMBAL</title>
+<link>https://stmv1.samcast.com.br/tvpombal/tvpombal/chunklist_w841158517.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/--HpZrGPFA2Y/Xy8w7cTPJqI/AAAAAAAADJM/atRY8Wkn14ggxv4lt1tHV-KZi7hfGRFkQCLcBGAsYHQ/s320/Screenshot_2020-08-08-20-06-59.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV LIBERDADE</title>
+<link>http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w246173442.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-LfXGdQONgQo/XjJEUnSGc8I/AAAAAAAACb8/mWutGWbmaSQXv1RGelEiZL0ldn3NkOqmwCPcBGAYYCw/s320/2020-01-29%2B23.45.22.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>CTV</title>
+<link>https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w831440608.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-faI3sYffT0w/Xrh_hrkuOcI/AAAAAAAACvE/3mt6BIKei_EHg9lOQetZU9Kk9kH2SJsMwCLcBGAsYHQ/s320/2020-05-10%2B19.21.05.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV EVANGELIZAR</title>
+<link>https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w1362607312.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-OkXo74s-Va0/XcHqqQOZ4xI/AAAAAAAACOA/JdddgSCwyoYyHtSi8wZKZFMN2EF8XtMlwCLcBGAsYHQ/s320/Screenshot_2019-11-05-18-22-59.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>GOSPEL MOVIES TELEVISION</title>
+<link>hthttps://stmv1.srvif.com/gospelf/gospelf/chunklist_w1956387957.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>GOSPEL CARTOON</title>
+<link>https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/chunklist_w655243055.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s320/Screenshot_2019-06-21-15-12-44.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>NOSSA TV</title>
+<link>https://srv2.zcast.com.br/nossatv/nossatv/chunklist_w1803255233.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-zzHL-Jr8dcc/X8z0U8arsJI/AAAAAAAAD6M/Gy8GNVPuU1AzD6CmWG9uLMAnfcTemFpTgCLcBGAsYHQ/s0/NOSSA%2BTV.png</thumbnail>
 <fanart></fanart>
 <info>.</info>
 </item>
