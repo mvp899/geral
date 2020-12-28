@@ -28,5 +28,15 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>Teste 01</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/fabiotorrents/master/filmes-torrents</externallink>
+<fanart>https://raw.githubusercontent.com/mvp899/geral/main/imagem/652753.png</fanart>
+<info></info>
+</channel>
+</channels>
+
 <! icones recomendavel 256 x 256> 
 <! fanart 1024 x 720>
