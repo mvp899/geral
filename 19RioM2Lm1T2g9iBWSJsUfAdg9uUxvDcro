@@ -10,16 +10,6 @@
 
 <channels>
 <channel>
-<name>Novelas</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/novelas</externallink>
-<fanart>https://i.ytimg.com/vi/xt91PkODZk4/maxresdefault.jpg</fanart>
-<info>novelas teste</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>Filmes</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mvp899/geral/main/Filmes</externallink>
@@ -30,11 +20,11 @@
 
 <channels>
 <channel>
-<name>Adulto+18</name>
-<thumbnail>https://1.bp.blogspot.com/-B3GSD2MZx4Q/UC5AWtfBLNI/AAAAAAAAFMI/Lv7DjcQa8Og/s1600/conteudo-adulto.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/adulto%2B18</externallink>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/81A8Z-eaiTL.jpg</fanart>
-<info>teste</info>
+<name>Novelas</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/novelas</externallink>
+<fanart>https://i.ytimg.com/vi/xt91PkODZk4/maxresdefault.jpg</fanart>
+<info>novelas teste</info>
 </channel>
 </channels>
 
@@ -57,6 +47,17 @@
 <info>teste</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>Adulto+18</name>
+<thumbnail>https://1.bp.blogspot.com/-B3GSD2MZx4Q/UC5AWtfBLNI/AAAAAAAAFMI/Lv7DjcQa8Og/s1600/conteudo-adulto.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/adulto%2B18</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/81A8Z-eaiTL.jpg</fanart>
+<info>teste</info>
+</channel>
+</channels>
+
 
 <! icones recomendavel 256 x 256> 
 <! fanart 1024 x 720>
