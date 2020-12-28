@@ -1,3 +1,32 @@
-....teste....
-ep 01
-https://proxy-14.nyc.dailymotion.com/sec(mY07IAeONRUUJhi-jD5EpWQvar4j9XNINZcezAesV8rzItg6d7ZWga8Ty5YGNXFFg2t6iGR_6RjQUzIIwQqSFQcSkl94aJfeykl0vf6iTvY)/video/390/335/475533093_mp4_h264_aac_hd.m3u8#cell=nyc&qos_part=1&qos_geostore=1
+<channels>
+<channel>
+<name>Kodish Faroeste</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/Faroeste.xml</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Fabio Filmes</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/fabiotorrents/master/filmes-torrents</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Tv Online</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/fabiotorrents/master/FORMIGAtv.m3u</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info>Creditos ao Formiga</info>
+</channel>
+</channels>
+
+<! icones recomendavel 256 x 256> 
+<! fanart 1024 x 720>
