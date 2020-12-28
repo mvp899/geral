@@ -1,9 +1,19 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" groud-title="",Rede TV
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w682567846_b2926786_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-FYnJ9VBDtIE/XQlbPdAZWLI/AAAAAAAABFk/NIS5QHlNZYkUJq51QaAltpfWc3-lOolHACPcBGAYYCw/s320/Screenshot_2019-06-18-18-21-12.png" groud-title="",SBT Interior SP
-https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/chunklist_w831620136.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" groud-title="",Combate
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/combatesd/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" groud-title="",Globo minas HD
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/globominas/video.m3u8
+<channels></channels>
+<channel>
+<name>Abertos</name>
+<thumbnail>https://redecanais.cloud/imgs-videos/Novelas/Cheias%20de%20Charme%20Capa.jpg</thumbnail>
+
+<item>
+<title>Globo SP</title>
+<thumbnail>https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg</thumbnail>
+<link>https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=c2AyAohn9r0CsqtEPsOGaw&3U1G7qaTxrPbalZnEx=1609203201</link>
+<fanart>https://1.bp.blogspot.com/-0CvzHPgqdsQ/T85yw-9tEtI/AAAAAAAADog/v7gWsrwt_SA/s1600/578223_446711242023327_446683295359455_1578142_1574562693_n.jpg</fanart>
+<info>A principal mensagem desta trama é a importância da amizade. As empregadas domésticas Maria da Penha, Maria do Rosário e Maria Aparecida se conhecem após uma grande confusão. E do caos nasce uma grande cumplicidade. Como num conto de fadas, as três se transformam em um bem-sucedido trio de cantoras.…</item>
+
+<item>
+<title>Capitulo 02</title>
+<link>https://drkjaqjbzojf9.cloudfront.net/RCServer04/ondemand/CHSDCHRMCP002.mp4</link>
+<thumbnail>https://redecanais.cloud/imgs-videos/Novelas/Cheias%20de%20Charme%20Capa.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-0CvzHPgqdsQ/T85yw-9tEtI/AAAAAAAADog/v7gWsrwt_SA/s1600/578223_446711242023327_446683295359455_1578142_1574562693_n.jpg</fanart>
+<info>parte 2</info>
+</item>
