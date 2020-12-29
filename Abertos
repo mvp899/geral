@@ -387,9 +387,16 @@
 <thumbnail>https://www.google.com.br/url?sa=i&url=http%3A%2F%2Ffrtsports.com.br%2Fservicos%2Fleis-de-incentivo-ao-esporte%2F&psig=AOvVaw1eM3W4QytG9CX0p9kuvYrv&ust=1609273838453000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC5kK3C8e0CFQAAAAAdAAAAABAF</thumbnail>
 
 <item>
-<title>Combate</title>
-<thumbnail>https://futemax.live/wp-content/uploads/6757a5df49893ab0b6da3227f94faaae.jpg</thumbnail>
-<link>https://live.tvfolha.com/COMBATE/video.m3u8</link>
+<title>Fox Sports SD</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
+<link>https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportssd/video.m3u8</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Fox Sports HD</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
+<link>https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8</link>
 <fanart></fanart>
 <info>teste</item>
 
