@@ -530,6 +530,34 @@
 <fanart></fanart>
 <info>teste</item>
 
+<item>
+<title>SporTV</title>
+<thumbnail>https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sportv_91dfde1d_01dd4e63fd99316461d64c2817f8d63364912ea2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYyOTczO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>SporTV 2</title>
+<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv2_22ab0e43_03431306d8938deec36b02157709d87c6ba043e2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYzMTA1O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>SporTV 2 HD</title>
+<thumbnail>https://static.wikia.nocookie.net/logopedia/images/4/45/BYmsxo6.png/revision/latest/scale-to-width-down/340?cb=20180304152824</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv2_22ab0e43_03431306d8938deec36b02157709d87c6ba043e2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYzMTcwO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>SporTV 3</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1280px-SporTV_3_2017_logo.svg.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv3_e1a864f0_b8161b3ac8a33e1c964049029fd7f9ed11d83ed9/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYzMzM5O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
 <channels></channels>
 <channel>
 <name>Variedades</name>
