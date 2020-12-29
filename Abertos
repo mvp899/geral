@@ -438,16 +438,60 @@
 <info>teste</item>
 
 <item>
-<title>Fox Sports 2</title>
+<title>Fox Sports 2 HD</title>
 <thumbnail>https://i.imgur.com/LkFfLYk.png</thumbnail>
 <link>https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/foxsports2hd_2a7541ba_1957646b6c178202b2f90e798caafe5ac09c6e9f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2OTE1O30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
-<title>Fox Sports 2</title>
-<thumbnail>https://i.imgur.com/LkFfLYk.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/foxsports2hd_2a7541ba_1957646b6c178202b2f90e798caafe5ac09c6e9f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2OTE1O30%3D</link>
+<title>Premiere 2</title>
+<thumbnail>https://i.pinimg.com/originals/2a/93/7c/2a937cae65feb5411184785f0f6079f6.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere2_f5b68d74_7c14aeaa87a8e94f28f8fd82862c81a97e60440a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU3NzI1O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+
+<item>
+<title>Premiere 3</title>
+<thumbnail>https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/premiere3_b903ea63_b8d47e8105e4d700efbeae488f1ca1038560c390/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4MDg3O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Premiere 4</title>
+<thumbnail>https://i.pinimg.com/originals/ca/82/77/ca82776965693b1ce7d6cb0a6f9a2185.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere4_142e9ae3_c073ca7ea162e047182c6003d40ca459cb0bbc4b/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4MjE1O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Premiere 5</title>
+<thumbnail>https://multicanais.com/wp-content/uploads/2020/08/Premiere-5-ao-vivo-online.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/premiere5_0486ffb0_2c756d4c9fe40cd2b249c1cd4c65e624354de1e3/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4NDAxO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Premiere 6</title>
+<thumbnail>https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/premiere6_8a279e5c_cac0b1fbfae36484435febf08199c9ef2d91628e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4NDczO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Premiere 7</title>
+<thumbnail>https://iconape.com/wp-content/files/xk/279732/svg/279732.svg</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere7_0b6a6376_f616819baa23a632ec312d2129b6c84a69d1c612/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4Njc3O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+
+<item>
+<title>Premiere clubes</title>
+<thumbnail>https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/premiereclubes_3f1522d0_67d75859cb498ad67ffe6567afd2ad61df1e0ad2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4NzQyO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
