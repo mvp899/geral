@@ -417,6 +417,41 @@
 <info>teste</item>
 
 <item>
+<title>ESPN Extra</title>
+<thumbnail>https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20200224024401</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnextra_93f271ad_ff30fd1d0f2189f85fe8e121f667fd2e8e180679/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYyMjgwO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>ESPN</title>
+<thumbnail>https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espn_887309d0_6186a36def050e8df232cdec247b34566a7f3577/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYxNzM0O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>ESPN 2</title>
+<thumbnail>https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/espn2_6c1e671f_302820efad93219992cbfa3a5e91b5b45b4b1d0c/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYxODg4O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>ESPN Brasil</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnbrasil_2a459380_52f7d45c7c5b01f0d40506624bf02e9f0c548627/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYxOTkxO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>ESPN Plus</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnextra_93f271ad_ff30fd1d0f2189f85fe8e121f667fd2e8e180679/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYyMTgxO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
 <title>Fox Sports</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
 <link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_9276908079bd776d72ea517daa15d90932ec3133/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjAzMzExO30%3D</link>
