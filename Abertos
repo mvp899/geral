@@ -403,9 +403,51 @@
 <info>teste</item>
 
 <item>
+<title>Band Sports</title>
+<thumbnail>https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/bandsports_f53eac2e_ce091e88aa91e1b9db7d633f6a930232d504d2fc/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2MzgxO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Combate</title>
+<thumbnail>https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/combate_ac3478d6_1e57a9d7c322687d251d665816f8708e04e19b25/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2MjQxO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
 <title>Fox Sports</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
 <link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_9276908079bd776d72ea517daa15d90932ec3133/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjAzMzExO30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Fox Sports HD</title>
+<thumbnail>https://seeklogo.com/images/F/fox-sports-hd-logo-4BEADD263D-seeklogo.com.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/foxsportshd_98fbc42f_1ed44a8d2feba76bdcd8e979aa74da7a16caad90/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2NTc1O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Fox Sports 2</title>
+<thumbnail>https://lh3.googleusercontent.com/proxy/aLDKZZUOiQ16M--nFFA_uf-kvIfOCDhjcJUE1HKLLwFdFutegC-YZK5rB_BYE5Vp_AxBJ1dLtHF_gSNNWevvsc5IYbkgnnw1gnFlR7QXUWj2rxtaM-3i_p0wj8WL</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/foxsports2_fc8d9e6e_965c7e72ad96d4efb993341da931e0faae9d77a9/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2NzU5O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Fox Sports 2</title>
+<thumbnail>https://i.imgur.com/LkFfLYk.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/foxsports2hd_2a7541ba_1957646b6c178202b2f90e798caafe5ac09c6e9f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2OTE1O30%3D</link>
+<fanart></fanart>
+<info>teste</item>
+
+<item>
+<title>Fox Sports 2</title>
+<thumbnail>https://i.imgur.com/LkFfLYk.png</thumbnail>
+<link>https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/foxsports2hd_2a7541ba_1957646b6c178202b2f90e798caafe5ac09c6e9f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2OTE1O30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
