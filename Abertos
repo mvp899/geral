@@ -9,15 +9,7 @@
 <thumbnail>https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png</thumbnail>
 <link>https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8</link>
 <fanart></fanart>
-<info>O sinal aberto ou free-to-air é uma forma utilizada para se referir ao sinal de televisão e rádio que não foi criptografado. Normalmente o sinal é transmitido via satélite, mas existem algumas emissoras que transmitem o sinal nas bandas VHF ou UHF.</item>
-
-<item>
-<title>GLOBO HD</title>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_615bf859b8c32f17417a01f166b3b13e01190eea/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2MDIzO30%3D</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png</thumbnail>
-<fanart></fanart>
-<info>em teste ainda</info>
-</item>
+<info>Addon em manuteçao alguns canais vai esta fora do ar</item>
 
 <item>
 <title>SBT</title>
@@ -394,6 +386,7 @@
 <channel>
 <name>Esportes</name>
 <thumbnail>https://aguai.sp.gov.br/home/wp-content/uploads/2020/04/esportes-2.png</thumbnail>
+<info>Addon em manuteçao alguns canais vai esta fora do ar</info>
 
 <item>
 <title>allsports</title>
@@ -562,6 +555,7 @@
 <channel>
 <name>Variedades</name>
 <thumbnail>https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.minhaoperadora.com.br%2F2020%2F01%2Fconfira-qual-foi-o-canal-mais-visto-da-tv-paga-em-2019.html&psig=AOvVaw2_yyOOodnQlRcTfvcah7so&ust=1609271450194000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDm3Lu58e0CFQAAAAAdAAAAABAJ</thumbnail>
+<info>Addon em manuteçao alguns canais vai esta fora do ar</info>
 
 <item>
 <title>Globo SP HD</title>
