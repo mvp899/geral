@@ -1,10 +1,20 @@
 <channels>
 <channel>
+<name>Desenhos</name>
+<thumbnail>https://i.pinimg.com/564x/e2/c7/17/e2c7177a0926bd060b43c4b35a2b4436.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Abertos</externallink>
+<fanart></fanart>
+<info>nao tem nada ainda</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Tv Ao Vivo</name>
 <thumbnail>https://i.pinimg.com/564x/e2/c7/17/e2c7177a0926bd060b43c4b35a2b4436.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/mvp899/geral/main/Abertos</externallink>
 <fanart></fanart>
-<info>tv ao vivo todos os canais teste 2</info>
+<info>Addon em manuteçao alguns canais vai esta fora do ar</info>
 </channel>
 </channels>
 
