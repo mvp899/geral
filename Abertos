@@ -398,156 +398,112 @@
 <item>
 <title>Band Sports</title>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/bandsports_f53eac2e_7ca216d663267ecfa383560f90cf4a416592019d/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODcuMC40MjgwLjg4IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MDkzNzI0OTY7fQ%3D%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bandsports_f53eac2e_a5d0019f8c4a946d5e258bff6412181818a6e898/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyMTI1O30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>Combate</title>
 <thumbnail>https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/combate_ac3478d6_1e57a9d7c322687d251d665816f8708e04e19b25/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2MjQxO30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/combate_ac3478d6_bc6934b19c0e0929ce7a5541ada9ffa5e9e31d30/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyMTc5O30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>ESPN Extra</title>
 <thumbnail>https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20200224024401</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnextra_93f271ad_ff30fd1d0f2189f85fe8e121f667fd2e8e180679/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYyMjgwO30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnextra_93f271ad_0f19b8ff26ba3896848db59f1a20fb281ca049f5/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyMjcyO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>ESPN</title>
 <thumbnail>https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espn_887309d0_6186a36def050e8df232cdec247b34566a7f3577/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYxNzM0O30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn_887309d0_f82a600b04ebd24b187a3b9d4526aa93a3ae75f7/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyMzA4O30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>ESPN 2</title>
 <thumbnail>https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/espn2_6c1e671f_302820efad93219992cbfa3a5e91b5b45b4b1d0c/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYxODg4O30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espn2_6c1e671f_04d44c6a5a877cd8b2a3e09110dcb87428fe0c8e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyMzQxO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>ESPN Brasil</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnbrasil_2a459380_52f7d45c7c5b01f0d40506624bf02e9f0c548627/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYxOTkxO30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espnbrasil_2a459380_01ad665da4ff31fee61b5b02f263b5bd833e1140/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyMzcxO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>ESPN Plus</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnextra_93f271ad_ff30fd1d0f2189f85fe8e121f667fd2e8e180679/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYyMTgxO30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnextra_93f271ad_0f19b8ff26ba3896848db59f1a20fb281ca049f5/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNDA0O30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>Fox Sports</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_9276908079bd776d72ea517daa15d90932ec3133/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjAzMzExO30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_46ab2ae0fd86879ea00c0490b0be1b518df2a7e2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNDUwO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>Fox Sports HD</title>
 <thumbnail>https://seeklogo.com/images/F/fox-sports-hd-logo-4BEADD263D-seeklogo.com.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/foxsportshd_98fbc42f_1ed44a8d2feba76bdcd8e979aa74da7a16caad90/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2NTc1O30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/foxsportshd_98fbc42f_94ca71389c1c291d6351baeabb5d965bb688d6e1/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNDgyO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>Fox Sports 2</title>
 <thumbnail>https://lh3.googleusercontent.com/proxy/aLDKZZUOiQ16M--nFFA_uf-kvIfOCDhjcJUE1HKLLwFdFutegC-YZK5rB_BYE5Vp_AxBJ1dLtHF_gSNNWevvsc5IYbkgnnw1gnFlR7QXUWj2rxtaM-3i_p0wj8WL</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/foxsports2_fc8d9e6e_a5028a22871dcfa36c44466ee1fc80b767e73237/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xOCI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MzI4OTU2O30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports2_fc8d9e6e_02f9aca051d3293f6a8b3a98006b7907d70c6e3d/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNTE1O30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>Fox Sports 2 HD</title>
 <thumbnail>https://i.imgur.com/LkFfLYk.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/foxsports2hd_2a7541ba_1957646b6c178202b2f90e798caafe5ac09c6e9f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU2OTE1O30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/foxsports2hd_2a7541ba_460becb9721ee5a4f3720f196d6bf07e11a7218b/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNTUzO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
-
-<item>
-<title>Premiere 2</title>
-<thumbnail>https://i.pinimg.com/originals/2a/93/7c/2a937cae65feb5411184785f0f6079f6.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere2_f5b68d74_7c14aeaa87a8e94f28f8fd82862c81a97e60440a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU3NzI1O30%3D</link>
-<fanart></fanart>
-<info>teste</item>
-
-
-<item>
-<title>Premiere 3</title>
-<thumbnail>https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/premiere3_b903ea63_b8d47e8105e4d700efbeae488f1ca1038560c390/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4MDg3O30%3D</link>
-<fanart></fanart>
-<info>teste</item>
-
-<item>
-<title>Premiere 4</title>
-<thumbnail>https://i.pinimg.com/originals/ca/82/77/ca82776965693b1ce7d6cb0a6f9a2185.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere4_142e9ae3_c073ca7ea162e047182c6003d40ca459cb0bbc4b/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4MjE1O30%3D</link>
-<fanart></fanart>
-<info>teste</item>
-
-<item>
-<title>Premiere 5</title>
-<thumbnail>https://multicanais.com/wp-content/uploads/2020/08/Premiere-5-ao-vivo-online.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/premiere5_0486ffb0_2c756d4c9fe40cd2b249c1cd4c65e624354de1e3/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4NDAxO30%3D</link>
-<fanart></fanart>
-<info>teste</item>
-
-<item>
-<title>Premiere 6</title>
-<thumbnail>https://multicanais.com/wp-content/uploads/2019/05/assistir-premiere6-ao-vivo-online.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/premiere6_8a279e5c_cac0b1fbfae36484435febf08199c9ef2d91628e/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4NDczO30%3D</link>
-<fanart></fanart>
-<info>teste</item>
-
-<item>
-<title>Premiere 7</title>
-<thumbnail>https://iconape.com/wp-content/files/xk/279732/svg/279732.svg</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere7_0b6a6376_f616819baa23a632ec312d2129b6c84a69d1c612/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4Njc3O30%3D</link>
-<fanart></fanart>
-<info>teste</item>
-
 
 <item>
 <title>Premiere clubes</title>
 <thumbnail>https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/premiereclubes_3f1522d0_67d75859cb498ad67ffe6567afd2ad61df1e0ad2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjU4NzQyO30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_83303b5ea2e8d87dbf42e1a9169f5e3a443f6a5f/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNTkwO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>SporTV</title>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sportv_91dfde1d_01dd4e63fd99316461d64c2817f8d63364912ea2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYyOTczO30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espnbrasil_2a459380_01ad665da4ff31fee61b5b02f263b5bd833e1140/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNjk0O30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>SporTV 2</title>
 <thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv2_22ab0e43_03431306d8938deec36b02157709d87c6ba043e2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYzMTA1O30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sportv2_22ab0e43_01c4de939361192ed29e67b49d4fb59530bd0b74/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNzIzO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>SporTV 2 HD</title>
 <thumbnail>https://static.wikia.nocookie.net/logopedia/images/4/45/BYmsxo6.png/revision/latest/scale-to-width-down/340?cb=20180304152824</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv2_22ab0e43_03431306d8938deec36b02157709d87c6ba043e2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYzMTcwO30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sportv2_22ab0e43_01c4de939361192ed29e67b49d4fb59530bd0b74/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNzYyO30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
 <item>
 <title>SporTV 3</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1280px-SporTV_3_2017_logo.svg.png</thumbnail>
-<link>https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv3_e1a864f0_b8161b3ac8a33e1c964049029fd7f9ed11d83ed9/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xMiI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5MjYzMzM5O30%3D</link>
+<link>https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sportv3_e1a864f0_a07303ac040f341b300251d92347bad3389fd7c0/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTM4LjU5LjIyMi4xNSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjE5OCBTYWZhcmkvNTM3LjM2IE9QUi83Mi4wLjM4MTUuNDU5IjtpOjI7aToxNjA5NTYyNzk5O30%3D</link>
 <fanart></fanart>
 <info>teste</item>
 
