@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>canal de teste 2</name>
+  <name>TV ao Vivo 01</name>
 <thumbnail>https://primogurila.com.br/wp-content/uploads/2017/03/teste.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mvp899/geral/main/Tv</externallink>
 <fanart>https://lumiere-a.akamaihd.net/v1/images/d_16x9_f2f35d3a.png</fanart>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>TV ao Vivo</name>
+<name>TV ao Vivo 02</name>
 <thumbnail>https://primogurila.com.br/wp-content/uploads/2017/03/teste.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mvp899/geral/main/Abertos</externallink>
 <fanart>https://lumiere-a.akamaihd.net/v1/images/d_16x9_f2f35d3a.png</fanart>
