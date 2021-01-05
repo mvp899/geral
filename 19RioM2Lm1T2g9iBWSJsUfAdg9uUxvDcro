@@ -38,5 +38,15 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>Novelas</name>
+<thumbnail>https://cdn6.aptoide.com/imgs/e/c/1/ec13d4870fdfb9599d97f35512388dee_icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/novelas</externallink>
+<fanart>https://claudia.abril.com.br/wp-content/uploads/2020/01/novelas-decepcionantes-2018-1.png</fanart>
+<info>tem de instalar o elementum para assistir</info>
+</channel>
+</channels>
+
 <! icones recomendavel 256 x 256> 
 <! fanart 1024 x 720>
