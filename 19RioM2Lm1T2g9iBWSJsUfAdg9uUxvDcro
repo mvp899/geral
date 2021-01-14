@@ -10,51 +10,11 @@
 
 <channels>
 <channel>
-<name>TV ao Vivo 02</name>
-<thumbnail>https://primogurila.com.br/wp-content/uploads/2017/03/teste.png</thumbnail>
+<name>on-demand</name>
+<thumbnail>https://www.teclasap.com.br/wp-content/uploads/2013/03/on-demand.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mvp899/geral/main/Abertos</externallink>
-<fanart>https://lumiere-a.akamaihd.net/v1/images/d_16x9_f2f35d3a.png</fanart>
-<info>atualizado 02/01/2021--01:48</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>FILMES</name>
-<thumbnail>https://primogurila.com.br/wp-content/uploads/2017/03/teste.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Filmes</externallink>
-<fanart>https://lumiere-a.akamaihd.net/v1/images/d_16x9_f2f35d3a.png</fanart>
-<info>tem de instalar o elementum para assistir</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>series</name>
-<thumbnail>https://primogurila.com.br/wp-content/uploads/2017/03/teste.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/series</externallink>
-<fanart>https://lumiere-a.akamaihd.net/v1/images/d_16x9_f2f35d3a.png</fanart>
-<info>tem de instalar o elementum para assistir</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>Novelas</name>
-<thumbnail>https://cdn6.aptoide.com/imgs/e/c/1/ec13d4870fdfb9599d97f35512388dee_icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/novelas</externallink>
-<fanart>https://claudia.abril.com.br/wp-content/uploads/2020/01/novelas-decepcionantes-2018-1.png</fanart>
-<info>tem de instalar o elementum para assistir</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>Filmes Porno</name>
-<thumbnail>https://images.emojiterra.com/google/android-pie/512px/1f51e.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Menu%20de%20Filmes</externallink>
-<fanart></fanart>
-<info>tem de instalar o elementum para assistir</info>
+<fanart>https://static.poder360.com.br/2019/06/room-2559790_1920.jpg</fanart>
+<info>atualizado 14/01/2021--04:11</info>
 </channel>
 </channels>
 
