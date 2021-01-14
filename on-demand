@@ -1,6 +1,39 @@
-<item>
-<thumbnail></thumbnail>
-<title>teste</title>
-<link>https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa4415793fb64001a76f88d/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=fd4e595e-9ae7-44b7-8d5b-930b2bfa6123&deviceVersion=72.0.3815.459&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&deviceType=web&deviceMake=Opera&sid=a6447ef8-4c3c-11eb-b132-0242ac110002&advertisingId=&deviceLat=-18.1851&deviceLon=-41.8889&deviceDNT=0&deviceModel=web&userId=&appName=web</link>
-<fanart></fanart>
-<info>...</item>
+<channels>
+<channel>
+  <name>Filmes</name>
+<thumbnail>https://primogurila.com.br/wp-content/uploads/2017/03/teste.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Filmes</externallink>
+<fanart>https://lumiere-a.akamaihd.net/v1/images/d_16x9_f2f35d3a.png</fanart>
+<info>aba de teste</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+  <name>Series</name>
+<thumbnail>https://primogurila.com.br/wp-content/uploads/2017/03/teste.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/series</externallink>
+<fanart>https://lumiere-a.akamaihd.net/v1/images/d_16x9_f2f35d3a.png</fanart>
+<info>aba de teste</info>
+</channel>
+</channels>
+
+channels>
+<channel>
+  <name>Novelas</name>
+<thumbnail>https://primogurila.com.br/wp-content/uploads/2017/03/teste.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/novelas</externallink>
+<fanart>https://lumiere-a.akamaihd.net/v1/images/d_16x9_f2f35d3a.png</fanart>
+<info>aba de teste</info>
+</channel>
+</channels>
+
+channels>
+<channel>
+  <name>Porno</name>
+<thumbnail>https://images.emojiterra.com/google/android-pie/512px/1f51e.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Menu%20de%20Filmes</externallink>
+<fanart>https://images.emojiterra.com/google/android-pie/512px/1f51e.png</fanart>
+<info>aba de teste</info>
+</channel>
+</channels>
