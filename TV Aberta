@@ -1,1 +1,76 @@
+<channels></channels>
+<channel>
+<name>Abertos</name>
+<thumbnail>https://i.pinimg.com/564x/e2/c7/17/e2c7177a0926bd060b43c4b35a2b4436.jpg</thumbnail>
 
+<item>
+<title>CNN Brasil</title>
+<thumbnail>https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png</thumbnail>
+<link>https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8</link>
+<fanart></fanart>
+<info>Addon em manuteçao alguns canais vai esta fora do ar</item>
+
+<item>
+<title>SBT</title>
+<link>https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/chunklist_w1832510870.m3u8</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+
+<item>
+<title>RECORD TV DF</title>
+<link>https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>BAND PA</title>
+<link>https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1117611484.m3u8</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>REDE TV!</title>
+<link>https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1117037235_b2989320.m3u8</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>REDE BRASIL</title>
+<link>https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w326740705.m3u8</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV CULTURA PR</title>
+<link>https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w618346236.m3u8</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV GAZETA MA</title>
+<link>http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w865566404.m3u8</link>
+<thumbnail>https://www.leonardomuller.com.br/arquivos/noticias/imagem/0/3.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV BRASIL</title>
+<link>https://video-rvd-mg-1.rnp.br/live/ocp(t(FlT1u0nizJE)r(fVR9ug)a(ijveEA)p(d(2xc)k(q8M)m(tj9Og4Vl_aIIqvB112DZ2Q)n(a(R4iW_w)s(zlU)'a(klAwIA)s(nrA)))s(s(LF8)b(Idv8klBTTmZL7grEBli8yES1SGW0VdWL1du8xwSPbhfHgo_qS-62xg6ZRukzp60WvsG7kEmSR39-k3-Swg)'s(yL4)b(3aei1G-Dnhlw3dbh31PPfHtP9P7bBjnX6_O2PSFaYRUUfnNrSVOuVyXjmgSGG-KrhQkT0RXJLxuHyvI8f3k5xTFRf4Fy5nFLsrUPRzpN)'s(dH0)b(lm5j2-sX))m(0))/28_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
