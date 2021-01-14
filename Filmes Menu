@@ -1,39 +1,9 @@
-channels>
+<channels>
 <channel>
-  <name>Comédias</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Comédias</externallink>
-<fanart></fanart>
-<info>teste</info>
-</channel>
-</channels>
-
-channels>
-<channel>
-  <name>Faroeste</name>
-<thumbnail>https://i.imgur.com/jBqkYcS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Faroeste</externallink>
-<fanart>https://cinema10.com.br/upload/noticias/2019-2/2190f242a1.jpg</fanart>
-<info>aba de teste</info>
-</channel>
-</channels>
-
-channels>
-<channel>
-  <name>Romances</name>
-<thumbnail>https://cdn.shopify.com/s/files/1/2264/1117/files/tv_romance_2000x.png?v=1518091504</thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Romances</externallink>
-<fanart>https://nodeoito.com/wp-content/uploads/2018/12/topo.jpg</fanart>
-<info>aba de teste</info>
-</channel>
-</channels>
-
-channels>
-<channel>
-  <name>Terror</name>
-<thumbnail>https://pngimage.net/wp-content/uploads/2018/06/imagenes-de-terror-png-7.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Terror</externallink>
-<fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2018/12/15145409/Filmes-de-Terror.png</fanart>
-<info>aba de teste</info>
+  <name>Lançamentos</name>
+<thumbnail>https://static.wixstatic.com/media/e265d7_fa85c22474ac436e88e1708388d1b2c0~mv2.gif</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Lançamentos</externallink>
+<fanart>https://cdn.mindminers.com/blog/uploads/2018/05/product.png</fanart>
+<info>Filmes Lançamentos</info>
 </channel>
 </channels>
