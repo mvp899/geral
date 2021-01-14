@@ -7,3 +7,13 @@
 <info>testteeeeeesdfsdfdsfsdfsdfsd</info>
 </channel>
 </channels>
+
+channels>
+<channel>
+  <name>Comedias</name>
+<thumbnail>https://i.ytimg.com/vi/opzLA_45FEI/maxresdefault.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Comédias</externallink>
+<fanart>https://1759028l.ha.azioncdn.net/img/2019/12/blog/191299/filmes-comedia-netflix.jpg</fanart>
+<info>aba de teste</info>
+</channel>
+</channels>
