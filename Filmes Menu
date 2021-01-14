@@ -1,5 +1,15 @@
 channels>
 <channel>
+  <name>Comédias</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Comédias</externallink>
+<fanart></fanart>
+<info>teste</info>
+</channel>
+</channels>
+
+channels>
+<channel>
   <name>Faroeste</name>
 <thumbnail>https://i.imgur.com/jBqkYcS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mvp899/geral/main/Faroeste</externallink>
