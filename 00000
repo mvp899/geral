@@ -1,9 +1,9 @@
 <channels>
 <channel>
   <name>Lançamentos</name>
-<thumbnail>https://static.wixstatic.com/media/e265d7_fa85c22474ac436e88e1708388d1b2c0~mv2.gif</thumbnail>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/mvp899/geral/main/Lançamentos</externallink>
-<fanart>https://cdn.mindminers.com/blog/uploads/2018/05/product.png</fanart>
+<fanart></fanart>
 <info>Filmes Lançamentos</info>
 </channel>
 </channels>
