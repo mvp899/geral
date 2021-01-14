@@ -48,5 +48,15 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>Filmes Porno</name>
+<thumbnail>https://images.emojiterra.com/google/android-pie/512px/1f51e.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/Menu%20de%20Filmes</externallink>
+<fanart></fanart>
+<info>tem de instalar o elementum para assistir</info>
+</channel>
+</channels>
+
 <! icones recomendavel 256 x 256> 
 <! fanart 1024 x 720>
