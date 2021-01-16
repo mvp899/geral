@@ -1,8 +1,4 @@
 <channels></channels>
-<channel>
-<name>Abertos</name>
-<thumbnail>https://i.pinimg.com/564x/e2/c7/17/e2c7177a0926bd060b43c4b35a2b4436.jpg</thumbnail>
-
 <item>
 <title>CNN Brasil</title>
 <thumbnail>https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png</thumbnail>
@@ -12,7 +8,7 @@
 
 <item>
 <title>SBT</title>
-<link>https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/chunklist_w1832510870.m3u8</link>
+<link>https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w8047843.m3u8</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png</thumbnail>
 <fanart></fanart>
 <info>.</info>
