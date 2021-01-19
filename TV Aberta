@@ -1,6 +1,32 @@
 <channels></channels>
 <channel>
-<name>Abertos</name>
+<name>Desenhos</name>
+<thumbnail>https://i.pinimg.com/564x/e2/c7/17/e2c7177a0926bd060b43c4b35a2b4436.jpg</thumbnail>
+
+<channels></channels>
+<channel>
+<name>Filmes</name>
+<thumbnail>https://i.pinimg.com/564x/e2/c7/17/e2c7177a0926bd060b43c4b35a2b4436.jpg</thumbnail>
+
+<item>
+<title>CANAL 29</title>
+<link>https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1829610678.m3u8</link>
+<thumbnail>https://cdn-radiotime-logos.tunein.com/s85711g.png</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<item>
+<title>TV MEGA CINE</title>
+<link>https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w849131392.m3u8</link>
+<thumbnail>https://image.winudf.com/v2/image1/Y29tLm1lZ2FjaW5lLmNydWVsX2ljb25fMTU3Mzc3MjQwMl8wMDA/icon.png?w=170&fakeurl=1</thumbnail>
+<fanart></fanart>
+<info>.</info>
+</item>
+
+<channels></channels>
+<channel>
+<name>Noticias</name>
 <thumbnail>https://i.pinimg.com/564x/e2/c7/17/e2c7177a0926bd060b43c4b35a2b4436.jpg</thumbnail>
 
 <channels></channels>
@@ -80,27 +106,6 @@
 <title>Novo Tempo</title>
 <link>https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8</link>
 <thumbnail>https://seeklogo.com/images/N/novo-tempo-logo-AA14F9873B-seeklogo.com.png</thumbnail>
-<fanart></fanart>
-<info>.</info>
-</item>
-
-<channels></channels>
-<channel>
-<name>Filmes</name>
-<thumbnail>https://i.pinimg.com/564x/e2/c7/17/e2c7177a0926bd060b43c4b35a2b4436.jpg</thumbnail>
-
-<item>
-<title>CANAL 29</title>
-<link>https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1829610678.m3u8</link>
-<thumbnail>https://cdn-radiotime-logos.tunein.com/s85711g.png</thumbnail>
-<fanart></fanart>
-<info>.</info>
-</item>
-
-<item>
-<title>TV MEGA CINE</title>
-<link>https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w849131392.m3u8</link>
-<thumbnail>https://image.winudf.com/v2/image1/Y29tLm1lZ2FjaW5lLmNydWVsX2ljb25fMTU3Mzc3MjQwMl8wMDA/icon.png?w=170&fakeurl=1</thumbnail>
 <fanart></fanart>
 <info>.</info>
 </item>
