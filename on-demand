@@ -1,5 +1,15 @@
 <channels>
 <channel>
+  <name>Animes</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ac/Anime_Universe_%28logo%29.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mvp899/geral/main/menu%20animes</externallink>
+<fanart>https://s.aficionados.com.br/imagens/os-25-animes-mais-assistidos-no-mundo-ate-agora_f.jpg</fanart>
+<info>mais um teste 9999</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
   <name>Filmes</name>
 <thumbnail>https://primogurila.com.br/wp-content/uploads/2017/03/teste.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mvp899/geral/main/Filmes%20Menu</externallink>
